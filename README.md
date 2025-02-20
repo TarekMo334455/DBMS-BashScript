@@ -21,10 +21,10 @@ chmod +x dbms.sh
 
 📂 Project Structure
 DBMS-CLI/
-│── dbms.sh        # Main script file
-│── databases/     # Directory where databases and tables are stored
-│── README.md      # Documentation
-│── LICENSE        # (Optional) License file
+│── dbms.sh        
+│── databases/     
+│── README.md     
+│── LICENSE        
 
 ⚡ Requirements
 Linux or macOS (or Windows with WSL).
