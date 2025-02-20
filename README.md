@@ -24,6 +24,7 @@ chmod +x dbms.sh
 📂 Project Structure
 
   DBMS-CLI/
+  
    │── dbms.sh        
    │── databases/     
    │── README.md     
