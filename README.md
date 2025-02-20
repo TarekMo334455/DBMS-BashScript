@@ -5,10 +5,11 @@ A simple file-based Database Management System (DBMS) using Bash
 DBMS-CLI is a lightweight database management system built with Bash scripting, allowing users to perform database operations through a menu-driven command-line interface. It uses the file system to store and manage databases and tables.
 
 📜 Features
-✅ Create, list, connect to, and drop databases.
-✅ Insert, update, delete, and retrieve data from tables.
-✅ Validate column data types before insertion and updates.
-✅ Display data in a well-structured format in the terminal.
+
+ ✅ Create, list, connect to, and drop databases.
+ ✅ Insert, update, delete, and retrieve data from tables.
+ ✅ Validate column data types before insertion and updates.
+ ✅ Display data in a well-structured format in the terminal.
 
 🎬 How to Run
 
