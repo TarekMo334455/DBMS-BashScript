@@ -13,9 +13,9 @@ DBMS-CLI is a lightweight database management system built with Bash scripting, 
 🎬 How to Run
 1.Clone the repository:
 
-git clone https://github.com/TarekMo334455/DBMS-CLI.git
-cd DBMS-CLI
-chmod +x dbms.sh
+ git clone https://github.com/TarekMo334455/DBMS-CLI.git
+ cd DBMS-CLI
+ chmod +x dbms.sh
 
 2.Run the script:
 
@@ -23,7 +23,7 @@ chmod +x dbms.sh
 
 📂 Project Structure
 
-  DBMS-CLI/
+   DBMS-CLI/
   
    │── dbms.sh        
    │── databases/     
